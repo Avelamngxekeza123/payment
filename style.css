@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+}
+
+h1{
+    color: black;
+    height: 82px;
+    width: 487px;
+    font-size: 81px;
+    font-weight: bold;
+    font-family: Inter;
+    text-align: center;
+}
+
+h4{
+    color: grey;
+    height: 50px;
+    width: 570px;
+    font-size: 25px;
+    font-weight: none;
+    font-family: Inter;
+    text-align: center;
+    position: relative;
+    right: 70px;
+}
+
+.square {
+    height: 76px;
+    width: 212px;
+    background-color: blue;
+    position: relative;
+    left: 150px;
+  }
+
+  .square2 {
+    height: 70px;
+    width: 120px;
+    background-color: white;
+    position: relative;
+    left: 240px;
+    bottom: 75px;
+  }
+
+  h5{
+    color: white;
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: lighter;
+    height: 40px;
+    width: 114px;
+    position: relative;
+    left: 170px;
+    bottom:160px;
+  }
